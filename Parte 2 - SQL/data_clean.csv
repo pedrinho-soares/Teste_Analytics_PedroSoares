@@ -1,0 +1,431 @@
+,ID,Data,Produto,Tamanho,Preço,Quantidade,Categoria,Forma de Pagamento,Hora,Valor Total
+0,558,2023-05-26,Sorvete,700ml,20,1,Natural,debito,17:42:00,20
+1,160,2023-08-09,Sorvete,200ml,10,1,Batido com frutas,pix,12:07:00,10
+2,903,2023-01-06,Acai,500ml,16,2,Natural,pix,19:47:00,32
+3,367,2023-11-27,Sorvete,300ml,13,2,Batido com frutas,pix,10:30:00,26
+4,76,2023-07-07,Acai,400ml,14,1,Batido com frutas,debito,18:15:00,14
+5,927,2023-05-25,Acai,500ml,16,2,Batido com frutas,pix,10:48:00,32
+6,566,2023-06-04,Sorvete,200ml,10,2,Batido com frutas,pix,18:34:00,20
+7,264,2023-04-09,Sorvete,300ml,13,2,Batido com frutas,debito,12:35:00,26
+8,738,2023-09-19,Acai,400ml,14,2,Natural,pix,17:07:00,28
+9,250,2023-05-31,Acai,200ml,10,1,Natural,credito,12:28:00,10
+10,962,2023-02-18,Sorvete,200ml,10,2,Natural,debito,18:53:00,20
+11,790,2023-02-04,Sorvete,400ml,14,1,Natural,pix,13:24:00,14
+12,798,2023-01-09,Acai,500ml,16,1,Natural,debito,10:58:00,16
+13,864,2023-01-12,Sorvete,200ml,10,2,Natural,debito,14:40:00,20
+14,590,2023-07-09,Acai,200ml,10,2,Natural,pix,17:16:00,20
+15,496,2023-07-06,Sorvete,400ml,14,1,Batido com frutas,credito,13:16:00,14
+16,680,2023-06-08,Acai,300ml,13,1,Batido com frutas,debito,12:54:00,13
+17,487,2023-10-06,Sorvete,700ml,20,2,Natural,pix,11:04:00,40
+18,730,2023-09-20,Acai,500ml,16,1,Batido com frutas,credito,17:30:00,16
+19,572,2023-08-14,Sorvete,300ml,13,1,Batido com frutas,debito,19:24:00,13
+20,372,2023-07-15,Acai,500ml,16,1,Batido com frutas,debito,19:48:00,16
+21,175,2023-12-05,Sorvete,200ml,10,2,Batido com frutas,pix,16:55:00,20
+22,762,2023-06-10,Sorvete,700ml,20,1,Natural,credito,12:05:00,20
+23,132,2023-11-13,Sorvete,700ml,20,1,Batido com frutas,credito,11:37:00,20
+24,802,2023-09-10,Acai,200ml,10,2,Natural,credito,14:13:00,20
+25,165,2023-03-04,Acai,700ml,20,2,Batido com frutas,pix,18:29:00,40
+26,766,2023-08-09,Sorvete,300ml,13,1,Natural,debito,10:27:00,13
+27,948,2023-11-19,Acai,500ml,16,1,Natural,credito,11:57:00,16
+28,482,2023-02-18,Sorvete,700ml,20,1,Natural,pix,17:14:00,20
+29,472,2023-06-01,Acai,500ml,16,1,Batido com frutas,pix,13:01:00,16
+30,788,2023-02-27,Acai,500ml,16,2,Batido com frutas,credito,19:03:00,32
+31,475,2023-07-05,Sorvete,200ml,10,2,Natural,debito,14:26:00,20
+32,373,2023-11-09,Acai,500ml,16,2,Batido com frutas,debito,10:39:00,32
+33,842,2023-05-09,Acai,700ml,20,2,Natural,pix,19:24:00,40
+34,480,2023-07-20,Sorvete,400ml,14,2,Batido com frutas,debito,17:39:00,28
+35,215,2023-01-28,Acai,300ml,13,2,Batido com frutas,pix,14:19:00,26
+36,723,2023-10-17,Acai,200ml,10,1,Natural,debito,14:57:00,10
+37,31,2023-01-12,Sorvete,700ml,20,1,Natural,credito,10:22:00,20
+38,615,2023-02-26,Acai,500ml,16,2,Batido com frutas,pix,19:42:00,32
+39,6,2023-09-04,Acai,200ml,10,2,Batido com frutas,pix,17:45:00,20
+40,393,2023-10-10,Sorvete,700ml,20,2,Batido com frutas,debito,16:00:00,40
+41,159,2023-08-06,Sorvete,300ml,13,1,Natural,pix,17:33:00,13
+42,165,2023-12-11,Sorvete,700ml,20,1,Batido com frutas,debito,19:33:00,20
+43,582,2023-04-13,Sorvete,400ml,14,1,Natural,debito,19:30:00,14
+44,312,2023-11-23,Sorvete,300ml,13,2,Batido com frutas,credito,17:13:00,26
+45,415,2023-04-26,Acai,700ml,20,1,Batido com frutas,credito,14:56:00,20
+46,396,2023-06-06,Acai,300ml,13,1,Natural,credito,18:18:00,13
+47,810,2023-03-17,Sorvete,500ml,16,2,Batido com frutas,credito,18:56:00,32
+48,616,2023-02-06,Acai,200ml,10,2,Natural,pix,16:47:00,20
+49,580,2023-01-18,Sorvete,500ml,16,1,Natural,pix,15:09:00,16
+50,105,2023-11-14,Sorvete,500ml,16,1,Batido com frutas,debito,12:07:00,16
+51,527,2023-07-28,Acai,300ml,13,1,Natural,credito,15:45:00,13
+52,928,2023-02-10,Sorvete,500ml,16,2,Batido com frutas,debito,14:44:00,32
+53,415,2023-04-18,Sorvete,400ml,14,2,Batido com frutas,debito,19:02:00,28
+54,588,2023-02-10,Sorvete,700ml,20,2,Batido com frutas,pix,12:11:00,40
+55,26,2023-12-06,Sorvete,300ml,13,1,Batido com frutas,debito,17:11:00,13
+56,790,2023-04-09,Acai,700ml,20,2,Batido com frutas,credito,15:23:00,40
+57,1,2023-03-22,Acai,400ml,14,1,Natural,debito,13:48:00,14
+58,164,2023-07-27,Acai,300ml,13,2,Natural,pix,17:28:00,26
+59,949,2023-05-11,Sorvete,400ml,14,2,Batido com frutas,pix,18:48:00,28
+60,91,2023-10-09,Sorvete,200ml,10,1,Natural,pix,16:04:00,10
+61,283,2023-09-01,Acai,400ml,14,2,Natural,pix,19:39:00,28
+62,43,2023-01-03,Sorvete,400ml,14,2,Natural,credito,14:44:00,28
+63,790,2023-12-20,Sorvete,400ml,14,1,Batido com frutas,credito,18:01:00,14
+64,269,2023-03-16,Sorvete,400ml,14,2,Batido com frutas,pix,18:11:00,28
+65,153,2023-04-07,Sorvete,200ml,10,2,Batido com frutas,credito,19:05:00,20
+66,453,2023-06-20,Sorvete,400ml,14,2,Batido com frutas,debito,11:14:00,28
+67,418,2023-07-08,Acai,700ml,20,1,Batido com frutas,debito,15:03:00,20
+68,101,2023-02-20,Acai,500ml,16,2,Batido com frutas,credito,18:00:00,32
+69,821,2023-11-23,Sorvete,200ml,10,1,Batido com frutas,debito,14:18:00,10
+70,446,2023-08-18,Acai,500ml,16,2,Natural,credito,10:43:00,32
+71,416,2023-05-22,Acai,300ml,13,2,Batido com frutas,credito,17:15:00,26
+72,351,2023-09-11,Sorvete,700ml,20,2,Natural,credito,17:32:00,40
+73,444,2023-12-19,Sorvete,700ml,20,1,Batido com frutas,credito,17:49:00,20
+74,178,2023-04-26,Sorvete,400ml,14,2,Natural,credito,12:18:00,28
+75,150,2023-10-04,Acai,500ml,16,2,Natural,credito,13:00:00,32
+76,947,2023-09-17,Acai,500ml,16,2,Batido com frutas,pix,13:03:00,32
+77,202,2023-10-31,Sorvete,200ml,10,2,Natural,debito,16:41:00,20
+78,460,2023-10-01,Sorvete,400ml,14,1,Batido com frutas,pix,18:44:00,14
+79,541,2023-11-29,Sorvete,400ml,14,1,Natural,debito,14:38:00,14
+80,950,2023-03-20,Sorvete,500ml,16,2,Batido com frutas,pix,14:05:00,32
+81,138,2023-04-08,Sorvete,200ml,10,2,Natural,pix,14:36:00,20
+82,711,2023-05-24,Sorvete,400ml,14,1,Natural,debito,15:46:00,14
+83,931,2023-08-15,Acai,300ml,13,1,Batido com frutas,debito,10:02:00,13
+84,199,2023-05-04,Acai,400ml,14,1,Natural,pix,14:44:00,14
+85,671,2023-08-28,Acai,200ml,10,1,Batido com frutas,pix,19:13:00,10
+86,484,2023-09-03,Acai,700ml,20,1,Batido com frutas,credito,11:32:00,20
+87,679,2023-12-07,Sorvete,700ml,20,2,Batido com frutas,debito,12:01:00,40
+88,996,2023-09-27,Acai,300ml,13,1,Natural,credito,11:17:00,13
+89,791,2023-04-23,Sorvete,500ml,16,1,Batido com frutas,debito,15:14:00,16
+90,33,2023-08-10,Sorvete,500ml,16,2,Natural,credito,19:53:00,32
+91,698,2023-05-09,Sorvete,400ml,14,1,Batido com frutas,debito,10:10:00,14
+92,755,2023-06-17,Acai,300ml,13,2,Natural,credito,15:16:00,26
+93,395,2023-09-07,Sorvete,400ml,14,2,Batido com frutas,debito,19:30:00,28
+94,65,2023-06-06,Sorvete,300ml,13,2,Batido com frutas,debito,10:34:00,26
+95,797,2023-05-11,Sorvete,200ml,10,1,Natural,debito,16:12:00,10
+96,927,2023-11-22,Acai,500ml,16,1,Batido com frutas,debito,15:52:00,16
+97,140,2023-08-08,Acai,300ml,13,2,Batido com frutas,pix,14:33:00,26
+98,409,2023-12-07,Sorvete,200ml,10,1,Batido com frutas,credito,13:41:00,10
+99,338,2023-09-02,Sorvete,700ml,20,1,Batido com frutas,pix,15:43:00,20
+100,184,2023-12-16,Sorvete,500ml,16,1,Batido com frutas,pix,18:11:00,16
+101,131,2023-09-08,Acai,500ml,16,2,Batido com frutas,pix,14:31:00,32
+102,39,2023-08-28,Acai,700ml,20,2,Natural,pix,12:31:00,40
+103,390,2023-09-06,Sorvete,500ml,16,1,Batido com frutas,debito,10:15:00,16
+104,340,2023-04-29,Acai,700ml,20,1,Batido com frutas,credito,14:28:00,20
+105,861,2023-12-18,Sorvete,700ml,20,2,Batido com frutas,debito,19:58:00,40
+106,968,2023-02-19,Sorvete,300ml,13,2,Natural,credito,19:15:00,26
+107,147,2023-02-09,Sorvete,500ml,16,2,Natural,pix,16:37:00,32
+108,225,2023-12-15,Acai,500ml,16,1,Natural,credito,10:44:00,16
+109,495,2023-05-12,Acai,200ml,10,1,Batido com frutas,pix,15:47:00,10
+110,146,2023-06-22,Sorvete,400ml,14,2,Natural,pix,16:24:00,28
+111,490,2023-04-25,Acai,400ml,14,1,Batido com frutas,debito,13:33:00,14
+112,166,2023-07-13,Sorvete,700ml,20,1,Batido com frutas,pix,18:03:00,20
+113,352,2023-06-06,Acai,500ml,16,2,Batido com frutas,debito,16:50:00,32
+114,844,2023-12-15,Sorvete,400ml,14,1,Natural,pix,12:22:00,14
+115,919,2023-09-17,Sorvete,300ml,13,1,Batido com frutas,credito,14:13:00,13
+116,307,2023-10-14,Sorvete,700ml,20,2,Natural,credito,12:43:00,40
+117,300,2023-01-31,Acai,700ml,20,2,Natural,pix,18:24:00,40
+118,862,2023-03-04,Sorvete,200ml,10,2,Natural,pix,19:06:00,20
+119,936,2023-10-29,Sorvete,400ml,14,1,Batido com frutas,pix,19:42:00,14
+120,210,2023-05-03,Acai,500ml,16,2,Batido com frutas,pix,18:51:00,32
+121,88,2023-03-02,Acai,500ml,16,2,Natural,pix,17:41:00,32
+122,487,2023-03-31,Sorvete,400ml,14,1,Batido com frutas,credito,19:57:00,14
+123,246,2023-05-06,Acai,700ml,20,2,Natural,pix,15:17:00,40
+124,786,2023-08-18,Acai,200ml,10,2,Batido com frutas,pix,10:38:00,20
+125,167,2023-11-13,Acai,400ml,14,2,Batido com frutas,credito,17:43:00,28
+126,73,2023-10-31,Sorvete,400ml,14,1,Batido com frutas,credito,14:08:00,14
+127,843,2023-01-01,Sorvete,500ml,16,2,Natural,pix,13:32:00,32
+128,575,2023-11-07,Sorvete,700ml,20,1,Batido com frutas,credito,14:52:00,20
+129,380,2023-01-06,Sorvete,500ml,16,1,Batido com frutas,pix,14:36:00,16
+130,737,2023-12-23,Sorvete,200ml,10,1,Natural,credito,14:20:00,10
+131,140,2023-08-27,Acai,500ml,16,1,Batido com frutas,credito,17:30:00,16
+132,365,2023-02-09,Acai,400ml,14,1,Batido com frutas,debito,11:46:00,14
+133,229,2023-06-05,Sorvete,400ml,14,2,Batido com frutas,pix,18:45:00,28
+134,853,2023-11-29,Sorvete,700ml,20,2,Natural,debito,16:05:00,40
+135,48,2023-09-12,Acai,200ml,10,2,Batido com frutas,pix,10:22:00,20
+136,167,2023-07-31,Sorvete,500ml,16,2,Batido com frutas,credito,19:27:00,32
+137,621,2023-08-28,Acai,300ml,13,1,Batido com frutas,pix,10:58:00,13
+138,438,2023-03-13,Sorvete,500ml,16,2,Natural,credito,19:13:00,32
+139,422,2023-12-02,Acai,700ml,20,1,Natural,credito,13:19:00,20
+140,318,2023-07-09,Sorvete,700ml,20,1,Batido com frutas,credito,14:16:00,20
+141,518,2023-10-02,Sorvete,300ml,13,2,Natural,pix,17:38:00,26
+142,633,2023-03-09,Acai,200ml,10,1,Natural,debito,12:42:00,10
+143,429,2023-08-12,Sorvete,500ml,16,2,Batido com frutas,pix,17:55:00,32
+144,421,2023-12-31,Sorvete,700ml,20,2,Batido com frutas,credito,12:55:00,40
+145,698,2023-03-21,Sorvete,700ml,20,1,Batido com frutas,debito,15:42:00,20
+146,585,2023-12-25,Sorvete,400ml,14,2,Natural,pix,17:48:00,28
+147,856,2023-12-11,Acai,400ml,14,2,Batido com frutas,debito,17:58:00,28
+148,678,2023-01-02,Acai,700ml,20,2,Natural,credito,18:05:00,40
+149,18,2023-02-06,Acai,200ml,10,1,Natural,pix,10:58:00,10
+150,362,2023-10-03,Sorvete,500ml,16,1,Batido com frutas,debito,13:13:00,16
+151,392,2023-07-17,Acai,200ml,10,1,Batido com frutas,debito,13:23:00,10
+152,748,2023-07-19,Acai,400ml,14,1,Natural,debito,17:36:00,14
+153,682,2023-06-23,Acai,700ml,20,2,Batido com frutas,debito,11:13:00,40
+154,874,2023-06-29,Acai,300ml,13,1,Batido com frutas,credito,16:30:00,13
+155,171,2023-05-27,Acai,700ml,20,2,Batido com frutas,debito,16:00:00,40
+156,219,2023-11-16,Acai,300ml,13,2,Natural,credito,13:07:00,26
+157,913,2023-12-20,Acai,700ml,20,2,Natural,debito,12:47:00,40
+158,148,2023-01-05,Acai,300ml,13,2,Natural,pix,18:04:00,26
+159,417,2023-01-24,Sorvete,500ml,16,2,Batido com frutas,credito,15:08:00,32
+160,667,2023-03-26,Acai,500ml,16,1,Natural,debito,14:09:00,16
+161,735,2023-06-02,Sorvete,500ml,16,1,Batido com frutas,debito,11:06:00,16
+162,318,2023-02-25,Sorvete,200ml,10,1,Batido com frutas,debito,12:23:00,10
+163,504,2023-04-23,Sorvete,400ml,14,1,Natural,credito,17:25:00,14
+164,634,2023-06-11,Acai,300ml,13,1,Batido com frutas,debito,13:28:00,13
+165,488,2023-09-04,Acai,700ml,20,2,Natural,debito,17:12:00,40
+166,643,2023-06-15,Sorvete,200ml,10,2,Natural,debito,12:40:00,20
+167,960,2023-12-03,Acai,700ml,20,1,Natural,pix,13:26:00,20
+168,304,2023-08-25,Acai,500ml,16,1,Natural,debito,16:24:00,16
+169,812,2023-08-17,Sorvete,200ml,10,1,Natural,pix,14:53:00,10
+170,705,2023-06-24,Sorvete,200ml,10,1,Natural,debito,12:30:00,10
+171,943,2023-07-18,Acai,300ml,13,1,Natural,pix,18:20:00,13
+172,977,2023-07-15,Sorvete,500ml,16,2,Natural,pix,10:25:00,32
+173,580,2023-12-05,Acai,500ml,16,2,Natural,pix,19:25:00,32
+174,229,2023-06-06,Sorvete,700ml,20,2,Natural,credito,19:31:00,40
+175,140,2023-12-11,Sorvete,700ml,20,1,Natural,credito,11:44:00,20
+176,431,2023-08-29,Acai,700ml,20,1,Batido com frutas,credito,16:02:00,20
+177,177,2023-06-16,Acai,500ml,16,1,Natural,debito,19:35:00,16
+178,468,2023-02-21,Acai,400ml,14,2,Natural,debito,11:00:00,28
+179,975,2023-02-10,Sorvete,500ml,16,2,Batido com frutas,credito,11:05:00,32
+180,843,2023-04-20,Acai,500ml,16,1,Natural,pix,12:29:00,16
+181,940,2023-01-02,Acai,500ml,16,2,Batido com frutas,credito,10:24:00,32
+182,377,2023-09-02,Sorvete,200ml,10,1,Natural,credito,18:52:00,10
+183,688,2023-10-12,Sorvete,200ml,10,1,Natural,credito,17:31:00,10
+184,912,2023-09-26,Sorvete,400ml,14,1,Batido com frutas,pix,14:43:00,14
+185,751,2023-09-11,Sorvete,500ml,16,2,Natural,debito,11:25:00,32
+186,354,2023-06-30,Sorvete,200ml,10,2,Natural,credito,11:58:00,20
+187,947,2023-12-16,Sorvete,400ml,14,2,Natural,debito,19:36:00,28
+188,540,2023-06-02,Acai,700ml,20,2,Natural,credito,10:55:00,40
+189,750,2023-07-27,Acai,200ml,10,1,Natural,pix,14:32:00,10
+190,722,2023-07-06,Sorvete,300ml,13,1,Batido com frutas,pix,17:06:00,13
+191,236,2023-07-13,Acai,400ml,14,2,Natural,debito,18:01:00,28
+192,819,2023-07-13,Sorvete,700ml,20,2,Batido com frutas,pix,12:56:00,40
+193,326,2023-03-15,Sorvete,500ml,16,2,Natural,pix,11:57:00,32
+194,138,2023-04-06,Acai,200ml,10,2,Natural,credito,10:17:00,20
+195,706,2023-02-08,Acai,400ml,14,1,Batido com frutas,pix,18:16:00,14
+196,118,2023-01-24,Sorvete,300ml,13,1,Natural,credito,17:40:00,13
+197,535,2023-05-08,Sorvete,400ml,14,1,Batido com frutas,credito,19:26:00,14
+198,821,2023-11-16,Sorvete,200ml,10,2,Natural,pix,12:31:00,20
+199,279,2023-04-04,Sorvete,300ml,13,2,Batido com frutas,pix,14:19:00,26
+200,642,2023-02-07,Sorvete,500ml,16,2,Natural,debito,12:51:00,32
+201,437,2023-11-05,Sorvete,200ml,10,1,Natural,credito,11:06:00,10
+202,793,2023-04-26,Acai,700ml,20,2,Natural,debito,13:54:00,40
+203,224,2023-05-11,Sorvete,400ml,14,1,Batido com frutas,debito,16:54:00,14
+204,812,2023-08-23,Acai,300ml,13,1,Batido com frutas,credito,16:14:00,13
+205,242,2023-05-31,Sorvete,400ml,14,1,Natural,pix,12:32:00,14
+206,323,2023-02-08,Sorvete,200ml,10,2,Batido com frutas,credito,11:45:00,20
+207,623,2023-07-15,Sorvete,300ml,13,1,Batido com frutas,credito,12:40:00,13
+208,947,2023-01-27,Sorvete,500ml,16,1,Batido com frutas,credito,13:54:00,16
+209,484,2023-04-28,Sorvete,300ml,13,2,Batido com frutas,debito,17:23:00,26
+210,824,2023-03-28,Sorvete,200ml,10,2,Batido com frutas,pix,13:18:00,20
+211,368,2023-08-09,Acai,500ml,16,1,Batido com frutas,pix,18:55:00,16
+212,870,2023-10-13,Acai,400ml,14,1,Batido com frutas,pix,15:51:00,14
+213,712,2023-02-18,Sorvete,200ml,10,2,Natural,debito,19:08:00,20
+214,95,2023-04-11,Sorvete,200ml,10,1,Batido com frutas,credito,14:57:00,10
+215,557,2023-12-16,Acai,500ml,16,2,Batido com frutas,pix,16:45:00,32
+216,451,2023-05-15,Sorvete,200ml,10,1,Batido com frutas,debito,16:48:00,10
+217,277,2023-04-13,Acai,500ml,16,1,Natural,pix,15:34:00,16
+218,781,2023-04-12,Acai,500ml,16,2,Batido com frutas,pix,19:22:00,32
+219,586,2023-10-20,Sorvete,300ml,13,1,Batido com frutas,credito,19:36:00,13
+220,298,2023-12-20,Acai,400ml,14,1,Natural,credito,11:37:00,14
+221,232,2023-06-14,Acai,700ml,20,1,Natural,credito,12:37:00,20
+222,160,2023-09-12,Acai,200ml,10,1,Batido com frutas,credito,12:30:00,10
+223,259,2023-02-08,Sorvete,200ml,10,1,Natural,debito,16:58:00,10
+224,603,2023-12-17,Sorvete,500ml,16,1,Natural,pix,15:56:00,16
+225,622,2023-07-11,Acai,300ml,13,2,Natural,debito,15:47:00,26
+226,449,2023-03-23,Acai,200ml,10,2,Batido com frutas,credito,19:13:00,20
+227,994,2023-09-10,Sorvete,400ml,14,2,Natural,pix,14:01:00,28
+228,83,2023-05-04,Sorvete,300ml,13,2,Natural,debito,10:38:00,26
+229,510,2023-11-13,Acai,300ml,13,2,Batido com frutas,credito,14:23:00,26
+230,999,2023-07-10,Acai,700ml,20,2,Natural,debito,15:40:00,40
+231,839,2023-11-18,Acai,300ml,13,2,Natural,pix,19:16:00,26
+232,957,2023-03-30,Sorvete,500ml,16,2,Natural,credito,18:01:00,32
+233,222,2023-12-31,Sorvete,500ml,16,2,Natural,credito,18:50:00,32
+234,233,2023-06-18,Sorvete,500ml,16,1,Natural,credito,18:53:00,16
+235,768,2023-06-11,Sorvete,200ml,10,1,Batido com frutas,pix,13:14:00,10
+236,175,2023-11-28,Sorvete,500ml,16,1,Natural,pix,15:34:00,16
+237,345,2023-06-29,Acai,200ml,10,2,Natural,credito,14:30:00,20
+238,991,2023-04-05,Acai,700ml,20,1,Batido com frutas,credito,19:20:00,20
+239,884,2023-03-24,Sorvete,400ml,14,1,Natural,credito,15:31:00,14
+240,916,2023-10-23,Sorvete,400ml,14,1,Batido com frutas,debito,18:14:00,14
+241,784,2023-11-22,Sorvete,300ml,13,2,Natural,pix,15:43:00,26
+242,444,2023-06-10,Sorvete,200ml,10,2,Natural,debito,17:04:00,20
+243,209,2023-12-17,Sorvete,500ml,16,2,Natural,pix,10:37:00,32
+244,955,2023-02-06,Sorvete,200ml,10,1,Natural,credito,16:10:00,10
+245,731,2023-08-31,Acai,400ml,14,1,Natural,debito,14:19:00,14
+246,791,2023-07-08,Acai,400ml,14,2,Natural,pix,10:31:00,28
+247,550,2023-04-27,Acai,400ml,14,1,Natural,pix,15:06:00,14
+248,951,2023-04-01,Acai,500ml,16,2,Batido com frutas,credito,16:51:00,32
+249,131,2023-01-10,Sorvete,400ml,14,2,Natural,debito,11:56:00,28
+250,33,2023-07-02,Acai,700ml,20,2,Natural,debito,11:08:00,40
+251,835,2023-06-02,Acai,300ml,13,2,Batido com frutas,debito,16:06:00,26
+252,245,2023-09-03,Acai,400ml,14,1,Batido com frutas,pix,15:41:00,14
+253,63,2023-09-26,Acai,300ml,13,1,Natural,pix,18:49:00,13
+254,644,2023-02-11,Sorvete,500ml,16,1,Batido com frutas,credito,15:45:00,16
+255,987,2023-01-24,Acai,700ml,20,1,Batido com frutas,credito,14:29:00,20
+256,601,2023-07-01,Sorvete,300ml,13,2,Natural,credito,16:45:00,26
+257,671,2023-08-03,Acai,500ml,16,2,Batido com frutas,pix,15:09:00,32
+258,721,2023-03-13,Sorvete,500ml,16,1,Natural,debito,19:52:00,16
+259,610,2023-05-24,Acai,200ml,10,1,Batido com frutas,debito,13:53:00,10
+260,511,2023-03-31,Sorvete,700ml,20,1,Batido com frutas,pix,12:11:00,20
+261,112,2023-09-19,Sorvete,400ml,14,2,Batido com frutas,credito,12:54:00,28
+262,346,2023-06-16,Sorvete,500ml,16,2,Batido com frutas,debito,14:32:00,32
+263,784,2023-08-06,Acai,700ml,20,1,Natural,pix,14:05:00,20
+264,648,2023-11-09,Acai,700ml,20,1,Natural,debito,19:19:00,20
+265,255,2023-04-08,Acai,400ml,14,2,Natural,pix,14:27:00,28
+266,800,2023-06-23,Acai,700ml,20,1,Natural,debito,18:58:00,20
+267,222,2023-08-09,Sorvete,300ml,13,1,Natural,debito,14:46:00,13
+268,858,2023-03-02,Sorvete,500ml,16,2,Batido com frutas,pix,15:47:00,32
+269,591,2023-08-06,Acai,700ml,20,1,Batido com frutas,credito,15:08:00,20
+270,674,2023-09-30,Acai,700ml,20,1,Natural,credito,16:15:00,20
+271,476,2023-02-04,Acai,400ml,14,2,Natural,credito,15:02:00,28
+272,172,2023-11-20,Sorvete,200ml,10,1,Natural,debito,17:21:00,10
+273,689,2023-04-16,Sorvete,200ml,10,2,Natural,pix,19:33:00,20
+274,208,2023-07-19,Acai,300ml,13,1,Natural,debito,11:15:00,13
+275,716,2023-11-08,Sorvete,500ml,16,2,Natural,credito,17:14:00,32
+276,603,2023-01-22,Sorvete,500ml,16,1,Natural,pix,12:19:00,16
+277,295,2023-10-02,Sorvete,500ml,16,1,Natural,pix,14:56:00,16
+278,33,2023-03-21,Sorvete,300ml,13,1,Natural,pix,13:42:00,13
+279,54,2023-06-20,Acai,700ml,20,2,Batido com frutas,debito,10:50:00,40
+280,251,2023-02-02,Acai,400ml,14,1,Batido com frutas,credito,14:29:00,14
+281,233,2023-10-21,Acai,400ml,14,1,Natural,pix,12:47:00,14
+282,866,2023-09-03,Acai,400ml,14,2,Natural,pix,19:56:00,28
+283,730,2023-07-28,Sorvete,200ml,10,1,Natural,debito,13:02:00,10
+284,458,2023-09-10,Acai,700ml,20,2,Batido com frutas,debito,17:26:00,40
+285,187,2023-07-18,Sorvete,400ml,14,1,Natural,pix,16:34:00,14
+286,245,2023-06-01,Acai,300ml,13,2,Batido com frutas,pix,11:02:00,26
+287,354,2023-10-08,Sorvete,400ml,14,2,Batido com frutas,credito,14:00:00,28
+288,129,2023-03-06,Sorvete,700ml,20,2,Batido com frutas,debito,17:49:00,40
+289,421,2023-11-26,Acai,500ml,16,2,Batido com frutas,credito,15:10:00,32
+290,84,2023-05-24,Sorvete,500ml,16,2,Natural,debito,16:11:00,32
+291,473,2023-01-22,Sorvete,500ml,16,1,Batido com frutas,credito,19:15:00,16
+292,158,2023-06-25,Sorvete,200ml,10,2,Natural,credito,17:04:00,20
+293,96,2023-12-28,Sorvete,300ml,13,2,Natural,credito,13:05:00,26
+294,573,2023-10-27,Sorvete,300ml,13,2,Natural,debito,16:41:00,26
+295,859,2023-11-22,Sorvete,700ml,20,1,Batido com frutas,credito,19:53:00,20
+296,720,2023-08-02,Sorvete,700ml,20,2,Batido com frutas,debito,12:39:00,40
+297,659,2023-08-28,Sorvete,700ml,20,1,Batido com frutas,credito,17:27:00,20
+298,840,2023-12-22,Acai,300ml,13,2,Batido com frutas,debito,13:49:00,26
+299,957,2023-04-19,Acai,400ml,14,2,Natural,debito,19:14:00,28
+300,327,2023-01-09,Sorvete,300ml,13,1,Natural,pix,15:42:00,13
+301,399,2023-07-20,Acai,400ml,14,2,Batido com frutas,credito,10:44:00,28
+302,32,2023-10-02,Sorvete,400ml,14,2,Batido com frutas,credito,14:46:00,28
+303,17,2023-01-07,Sorvete,400ml,14,2,Natural,debito,19:53:00,28
+304,204,2023-07-17,Sorvete,300ml,13,2,Batido com frutas,pix,12:27:00,26
+305,304,2023-10-01,Sorvete,500ml,16,1,Batido com frutas,credito,15:16:00,16
+306,261,2023-04-28,Sorvete,300ml,13,1,Natural,credito,11:11:00,13
+307,955,2023-02-15,Sorvete,400ml,14,2,Natural,debito,19:50:00,28
+308,17,2023-02-17,Acai,700ml,20,2,Natural,pix,19:45:00,40
+309,241,2023-04-11,Sorvete,200ml,10,2,Natural,pix,12:18:00,20
+310,834,2023-07-22,Acai,300ml,13,2,Batido com frutas,credito,14:03:00,26
+311,187,2023-07-03,Sorvete,300ml,13,2,Batido com frutas,debito,17:12:00,26
+312,458,2023-09-23,Acai,500ml,16,1,Natural,credito,18:51:00,16
+313,743,2023-12-28,Acai,500ml,16,2,Natural,debito,14:07:00,32
+314,294,2023-09-09,Sorvete,400ml,14,1,Batido com frutas,debito,13:58:00,14
+315,125,2023-06-16,Acai,700ml,20,2,Batido com frutas,debito,11:20:00,40
+316,680,2023-10-04,Acai,300ml,13,1,Batido com frutas,pix,19:51:00,13
+317,983,2023-03-10,Sorvete,200ml,10,1,Batido com frutas,pix,13:57:00,10
+318,304,2023-12-08,Acai,200ml,10,1,Natural,credito,16:10:00,10
+319,806,2023-03-25,Sorvete,700ml,20,1,Natural,debito,14:44:00,20
+320,20,2023-06-03,Acai,700ml,20,2,Batido com frutas,credito,17:28:00,40
+321,221,2023-03-05,Sorvete,700ml,20,1,Natural,debito,19:02:00,20
+322,465,2023-09-09,Sorvete,300ml,13,1,Batido com frutas,pix,12:35:00,13
+323,579,2023-02-26,Acai,500ml,16,2,Natural,debito,18:17:00,32
+324,93,2023-08-15,Acai,500ml,16,2,Natural,credito,13:08:00,32
+325,457,2023-07-26,Sorvete,400ml,14,1,Natural,debito,11:37:00,14
+326,960,2023-02-06,Sorvete,700ml,20,1,Batido com frutas,debito,11:16:00,20
+327,685,2023-12-30,Acai,500ml,16,1,Natural,pix,16:30:00,16
+328,730,2023-09-30,Sorvete,300ml,13,1,Batido com frutas,pix,12:52:00,13
+329,865,2023-10-19,Acai,700ml,20,2,Batido com frutas,pix,17:22:00,40
+330,216,2023-01-05,Sorvete,500ml,16,2,Natural,pix,16:18:00,32
+331,82,2023-11-13,Sorvete,700ml,20,2,Batido com frutas,debito,14:13:00,40
+332,721,2023-07-07,Sorvete,400ml,14,2,Natural,pix,13:32:00,28
+333,818,2023-02-06,Acai,500ml,16,2,Natural,pix,14:39:00,32
+334,441,2023-06-09,Acai,400ml,14,1,Natural,debito,14:03:00,14
+335,261,2023-10-26,Sorvete,700ml,20,2,Natural,credito,14:06:00,40
+336,291,2023-04-14,Sorvete,500ml,16,1,Batido com frutas,pix,13:50:00,16
+337,666,2023-08-25,Sorvete,700ml,20,2,Batido com frutas,pix,14:32:00,40
+338,940,2023-12-28,Sorvete,700ml,20,2,Batido com frutas,debito,11:50:00,40
+339,618,2023-03-18,Sorvete,700ml,20,2,Natural,debito,18:40:00,40
+340,836,2023-04-10,Sorvete,200ml,10,1,Natural,credito,14:00:00,10
+341,660,2023-10-19,Acai,700ml,20,1,Natural,debito,19:16:00,20
+342,793,2023-12-22,Acai,400ml,14,1,Batido com frutas,credito,15:00:00,14
+343,53,2023-02-01,Sorvete,500ml,16,2,Batido com frutas,pix,19:56:00,32
+344,240,2023-11-01,Sorvete,400ml,14,2,Natural,debito,16:16:00,28
+345,132,2023-06-24,Acai,700ml,20,1,Batido com frutas,pix,19:57:00,20
+346,297,2023-04-21,Sorvete,400ml,14,2,Natural,debito,19:54:00,28
+347,654,2023-01-01,Acai,400ml,14,2,Batido com frutas,pix,14:54:00,28
+348,332,2023-06-02,Acai,500ml,16,1,Batido com frutas,credito,13:08:00,16
+349,118,2023-05-18,Acai,400ml,14,2,Natural,credito,15:05:00,28
+350,245,2023-10-17,Acai,500ml,16,1,Natural,pix,18:32:00,16
+351,578,2023-08-13,Sorvete,700ml,20,2,Natural,pix,19:06:00,40
+352,447,2023-03-20,Sorvete,200ml,10,1,Natural,pix,12:07:00,10
+353,402,2023-07-03,Acai,200ml,10,2,Batido com frutas,credito,13:53:00,20
+354,66,2023-11-11,Sorvete,200ml,10,1,Natural,debito,15:55:00,10
+355,938,2023-01-15,Sorvete,700ml,20,2,Natural,debito,15:12:00,40
+356,461,2023-03-11,Acai,300ml,13,2,Batido com frutas,credito,13:36:00,26
+357,429,2023-10-02,Acai,700ml,20,1,Natural,debito,17:54:00,20
+358,483,2023-02-04,Acai,500ml,16,1,Natural,debito,12:53:00,16
+359,129,2023-01-23,Acai,500ml,16,1,Natural,pix,14:43:00,16
+360,218,2023-08-26,Acai,400ml,14,1,Batido com frutas,credito,12:45:00,14
+361,15,2023-03-25,Sorvete,400ml,14,1,Natural,debito,10:33:00,14
+362,677,2023-12-12,Sorvete,700ml,20,2,Batido com frutas,pix,16:29:00,40
+363,894,2023-12-06,Sorvete,200ml,10,2,Batido com frutas,debito,11:15:00,20
+364,16,2023-06-06,Sorvete,400ml,14,2,Batido com frutas,debito,17:00:00,28
+365,449,2023-03-06,Acai,300ml,13,1,Batido com frutas,credito,15:01:00,13
+366,470,2023-09-05,Acai,400ml,14,2,Natural,credito,11:15:00,28
+367,830,2023-03-10,Acai,400ml,14,2,Batido com frutas,pix,18:11:00,28
+368,902,2023-12-22,Acai,700ml,20,1,Batido com frutas,pix,13:08:00,20
+369,192,2023-06-07,Sorvete,400ml,14,1,Natural,debito,14:05:00,14
+370,316,2023-02-09,Sorvete,300ml,13,2,Batido com frutas,pix,19:50:00,26
+371,820,2023-05-02,Sorvete,500ml,16,2,Natural,pix,13:08:00,32
+372,790,2023-05-24,Sorvete,200ml,10,1,Natural,pix,10:20:00,10
+373,27,2023-09-19,Acai,700ml,20,2,Batido com frutas,debito,12:38:00,40
+374,243,2023-07-20,Sorvete,700ml,20,1,Natural,debito,11:20:00,20
+375,838,2023-06-29,Acai,500ml,16,2,Batido com frutas,pix,10:21:00,32
+376,404,2023-07-18,Acai,300ml,13,1,Batido com frutas,pix,17:19:00,13
+377,338,2023-04-27,Acai,300ml,13,2,Batido com frutas,credito,14:54:00,26
+378,126,2023-07-08,Sorvete,700ml,20,2,Batido com frutas,credito,12:32:00,40
+379,151,2023-03-01,Acai,700ml,20,2,Batido com frutas,pix,13:34:00,40
+380,689,2023-02-18,Acai,200ml,10,2,Batido com frutas,pix,13:16:00,20
+381,217,2023-12-08,Acai,400ml,14,2,Natural,debito,14:46:00,28
+382,724,2023-11-15,Sorvete,400ml,14,2,Natural,debito,10:06:00,28
+383,536,2023-04-21,Acai,400ml,14,2,Natural,credito,11:11:00,28
+384,585,2023-08-28,Acai,500ml,16,2,Batido com frutas,debito,12:22:00,32
+385,370,2023-02-26,Sorvete,200ml,10,2,Natural,credito,12:43:00,20
+386,372,2023-12-26,Acai,200ml,10,1,Natural,debito,14:03:00,10
+387,325,2023-10-20,Sorvete,300ml,13,2,Batido com frutas,pix,11:44:00,26
+388,108,2023-01-06,Sorvete,200ml,10,2,Batido com frutas,credito,17:47:00,20
+389,97,2023-01-26,Sorvete,700ml,20,1,Batido com frutas,debito,19:14:00,20
+390,223,2023-06-05,Acai,300ml,13,2,Natural,pix,17:06:00,26
+391,22,2023-03-15,Sorvete,700ml,20,1,Batido com frutas,debito,16:41:00,20
+392,127,2023-07-08,Sorvete,300ml,13,2,Natural,pix,11:10:00,26
+393,397,2023-02-12,Sorvete,300ml,13,2,Natural,credito,19:31:00,26
+394,745,2023-02-25,Sorvete,500ml,16,2,Batido com frutas,pix,16:05:00,32
+395,473,2023-08-17,Sorvete,200ml,10,1,Batido com frutas,credito,13:53:00,10
+396,186,2023-06-15,Sorvete,300ml,13,2,Natural,credito,16:22:00,26
+397,226,2023-02-06,Sorvete,400ml,14,2,Natural,debito,14:53:00,28
+398,868,2023-06-18,Acai,500ml,16,1,Batido com frutas,credito,11:55:00,16
+399,845,2023-08-17,Sorvete,200ml,10,2,Batido com frutas,pix,10:38:00,20
+400,684,2023-07-04,Sorvete,700ml,20,1,Batido com frutas,pix,16:37:00,20
+401,691,2023-07-25,Sorvete,500ml,16,1,Natural,pix,17:40:00,16
+402,641,2023-03-11,Acai,700ml,20,2,Batido com frutas,credito,16:26:00,40
+403,514,2023-02-16,Acai,400ml,14,1,Batido com frutas,credito,11:49:00,14
+404,456,2023-03-10,Sorvete,400ml,14,2,Batido com frutas,pix,10:17:00,28
+405,541,2023-04-18,Sorvete,500ml,16,1,Natural,debito,14:57:00,16
+406,599,2023-07-04,Sorvete,400ml,14,1,Batido com frutas,debito,18:12:00,14
+407,947,2023-01-11,Sorvete,400ml,14,1,Batido com frutas,pix,12:48:00,14
+408,262,2023-03-12,Sorvete,300ml,13,1,Batido com frutas,debito,12:29:00,13
+409,668,2023-11-07,Acai,400ml,14,1,Natural,debito,10:20:00,14
+410,176,2023-02-06,Sorvete,500ml,16,1,Natural,pix,14:19:00,16
+411,986,2023-02-21,Acai,300ml,13,1,Batido com frutas,pix,12:18:00,13
+412,134,2023-04-18,Sorvete,700ml,20,1,Batido com frutas,credito,14:56:00,20
+413,582,2023-04-16,Sorvete,300ml,13,1,Natural,pix,12:17:00,13
+414,579,2023-09-02,Acai,400ml,14,1,Natural,debito,10:02:00,14
+415,686,2023-02-21,Acai,700ml,20,1,Batido com frutas,pix,17:40:00,20
+416,294,2023-06-03,Sorvete,700ml,20,1,Natural,credito,18:57:00,20
+417,215,2023-03-16,Sorvete,400ml,14,1,Natural,debito,11:28:00,14
+418,508,2023-06-04,Sorvete,300ml,13,2,Batido com frutas,debito,10:22:00,26
+419,66,2023-03-10,Acai,700ml,20,1,Batido com frutas,pix,14:32:00,20
+420,792,2023-10-04,Sorvete,700ml,20,1,Batido com frutas,pix,11:51:00,20
+421,414,2023-12-22,Sorvete,400ml,14,1,Batido com frutas,debito,17:27:00,14
+422,725,2023-05-21,Acai,200ml,10,1,Batido com frutas,debito,16:45:00,10
+423,24,2023-11-28,Acai,200ml,10,1,Batido com frutas,debito,10:32:00,10
+424,429,2023-12-27,Acai,200ml,10,2,Batido com frutas,pix,18:51:00,20
+425,427,2023-02-20,Sorvete,200ml,10,2,Batido com frutas,credito,19:01:00,20
+426,817,2023-07-05,Acai,700ml,20,2,Batido com frutas,debito,10:28:00,40
+427,305,2023-12-26,Acai,300ml,13,2,Batido com frutas,credito,19:44:00,26
+428,770,2023-06-11,Sorvete,400ml,14,1,Batido com frutas,debito,17:16:00,14
+429,31,2023-12-05,Acai,200ml,10,2,Natural,credito,17:32:00,20
