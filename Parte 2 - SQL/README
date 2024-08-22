@@ -1,3 +1,41 @@
 DEPENDÊNCIAS NECESSÁRIAS: 
 1 - PARA RODAR OS SCRIPTS, RECOMENDO O SOFTWARE SQL SERVER MANAGEMENT STUDIO 20
 2 - baixar e IMPORTAR A TABELA "data_clean" que está dentro desta pasta
+
+# Consultas SQL para Análise de Vendas
+
+Este repositório contém consultas SQL desenvolvidas para analisar as vendas de produtos, incluindo a soma total de vendas e a identificação de produtos
+com menores vendas em junho de 2024.
+
+## Estrutura do Repositório
+
+- `consultas_sql.sql` - Contém as consultas SQL e uma explicação detalhada da lógica utilizada.
+
+## Consultas SQL
+
+### 1. Listar o nome do produto, categoria e a soma total de vendas
+
+- **Detalhes da Simulação:** Esta consulta lista o nome do produto, a categoria e a soma total de vendas (calculada como `Quantidade * Preço`) para cada produto. O resultado é ordenado
+  pelo valor total de vendas em ordem decrescente, permitindo identificar quais produtos geraram mais receita.
+
+- **Lógica:**
+  - **SELECT:** Nome do produto, categoria, e a soma do produto de quantidade e preço.
+  - **GROUP BY:** Por nome do produto e categoria.
+  - **ORDER BY:** Pelo total de vendas em ordem decrescente.
+
+### 2. Identificar os produtos que venderam menos em junho de 2024
+
+- **Detalhes da Simulação:** Esta consulta identifica os produtos que tiveram menores vendas no mês de junho de 2024. Isso é útil para analisar o desempenho de produtos específicos e ajustar estratégias de vendas.
+
+- **Lógica:**
+  - **WHERE:** As vendas para o mês de junho de 2024.
+  - **ORDER BY:** Pelo total de vendas em ordem crescente para identificar os produtos com menor desempenho.
+
+## Como Executar
+
+1- **Carregue as tabelas data_clean.csv** no seu banco de dados. Recomendo o uso do SQL SERVER MANAGEMENT STUDIO 20
+
+2- **Execute o arquivo** `consultas_sql.sql` para obter os resultados das consultas.
+
+3- **Analise os resultados** conforme necessário para entender o desempenho dos produtos.
+
