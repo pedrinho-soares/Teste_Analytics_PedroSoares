@@ -1,0 +1,57 @@
+ Este repositório contém uma criação de scripts em python e consultas SQL desenvolvidos para simular, limpar e analisar um dataset de vendas, além de interpretar os resultados obtidos. 
+As tarefas foram divididas em três partes: Programação em Python, Consultas SQL e Interpretação de Resultados.
+  Vou explicar como foi estruturado esse código e como você pode rodar em sua máquina.
+
+                                                              -- Estrutura do Repositório --
+
+- Parte 1 - Programação em Python/1- Limpeza e análise de dados de vendas - Contém os scripts Python utilizados para simular e analisar os dados de vendas.
+- Parte 1 - Programação em Python/1- Limpeza e análise de dados de vendas/Arquivos Gerados/ data_clean.csv - Dataset limpo do processo de limpeza de dados.
+- Parte 1 - Programação em Python/2- Análise exploratória de dados de vendas/3- Cálculo total de vendas.ipynb - Contém as análises realizadas, multiplicações, gráficos em linhas e insights detectados.
+- Parte 2 - SQL/consultas_sql.sql - Contém as consultas SQL e as explicações das lógicas utilizadas.
+- Parte 3 - Interpretação de resultados/relatorio_insights.pdf - Relatório resumido com os principais insights detectados nas análises e soluções recomendadas para os insights.
+
+                                                            --- Parte 1 - Programação em R ou Python ---
+
+ 1. Limpeza e análise de dados de vendas
+
+- Descrição: Um script Python foi criado para simular um dataset de vendas com 500 registros, trazendo o período de 01/01/2023 a 31/12/2023.
+  O dataset contém as colunas: ID, Data, Produto, Categoria, Quantidade, e Preço.
+  
+- Limpeza dos Dados:
+  - Tratamento de valores faltantes.
+  - Remoção de duplicatas.
+  - Conversão de tipos de dados, quando necessário.
+
+- Análises Realizadas:
+  - Cálculo do total de vendas (Quantidade * Preço) por produto.
+  - Identificação do produto com o maior número de vendas totais.
+
+                                                                  --- 2 - Análise Exploratória de Dados ---
+
+- Visualizações:
+  - Gráfico de linha mostrando a tendência de vendas ao longo do tempo (análise mensal).
+  - Identificação e descrição de dois padrões ou insights interessantes observados nos dados.
+
+                                                                            --- Parte 2 - SQL  ---
+
+- Consultas SQL:
+  - Consulta 1: Importei o meu dataset limpo 'data_clean' e selecionei as colunas do para ver se estava certo.
+  - Consulta 2: Listagem do nome do produto, categoria e a soma total de vendas (Quantidade * Preço) para cada produto, ordenada pelo valor total de vendas em ordem decrescente.
+  - Consulta 3: Identificação dos produtos que venderam menos no mês de junho de 2024.
+
+                                                                      --- Parte 3: Interpretação de Resultados ---
+
+- Relatório: Um breve relatório resumindo os principais insights obtidos das análises realizadas nas Partes 1 e 2. Incluí algumas sugestões de ações baseadas nos insights encontrados.
+
+                                                                               --- Como Executar e depêndencias necessárias ---
+
+1. Simulação e Limpeza de Dados:
+   - Baixe o diretório 'Parte 1 - Programação em Python' Execute os scripts Jupyter/Python no Visual Studio utilizando uma extensão Jupyter Notebook, resolvi usar o Jupyter por causa da praticidade
+de rodar linhas de código independentes para poder validar as hipóteses que foram surgindo durante a simulação.
+
+2. Consultas SQL:
+   - Importe o dataset limpo (`data_clean.csv`) em um banco de dados e execute as consultas SQL `consultas_sql.sql` no banco de dados. Recomendo o software SQL SERVER MANAGEMENT STUDIO 20,
+que foi o banco de dados que usei.
+
+3. **Interpretação dos Resultados:**
+   - Ao chegar na parte final, poderá ver o arquivo `relatorio_insights.pdf` para um resumo das principais descobertas e recomendações.
