@@ -11,7 +11,7 @@ As tarefas estão divididas em três partes: Programação em Python, Consultas 
 - Parte 2 - SQL/consultas_sql.sql - Contém as consultas SQL e as explicações das lógicas utilizadas.
 - Parte 3 - Interpretação de resultados/relatorio_insights.pdf - Relatório em PDF resumido com os principais insights detectados nas análises e soluções recomendadas para os insights.
 
-                                                            --- Parte 1 - Programação em R ou Python ---
+                                                            --- Parte 1 - Programação em Python ---
 
  1. Limpeza e análise de dados de vendas
 
@@ -38,7 +38,7 @@ As tarefas estão divididas em três partes: Programação em Python, Consultas 
 - Consultas SQL:
   - Consulta 1: Importei o meu dataset limpo 'data_clean' e selecionei as colunas para ver se estava certo.
   - Consulta 2: Listagem do nome do produto, categoria e a soma total de vendas (Quantidade * Preço) para cada produto, ordenada pelo valor total de vendas em ordem decrescente.
-  - Consulta 3: Identificação dos produtos que venderam menos no mês de junho de 2024.
+  - Consulta 3: Identificação dos produtos que venderam menos no mês de junho de 2024 agrupando eles em categoria .
 
                                                                       --- Parte 3: Interpretação de Resultados ---
 
@@ -55,4 +55,4 @@ As tarefas estão divididas em três partes: Programação em Python, Consultas 
 que foi a ferramenta utilizada.
 
 3. **Interpretação dos Resultados:**
-   - Ao chegar na parte final, poderá ver o arquivo `relatorio_insights.pdf` para um resumo das principais descobertas e recomendações.
+   - Ao chegar na parte final, poderá ver o arquivo `relatorio_insights.pdf` para um resumo dos principais insights e ações sugeridas para estes.
