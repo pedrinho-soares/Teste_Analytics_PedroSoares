@@ -11,44 +11,14 @@ As tarefas estão divididas em três partes: Programação em Python, Consultas 
 - Parte 2 - SQL/consultas_sql.sql - Contém as consultas SQL e as explicações das lógicas utilizadas.
 - Parte 3 - Interpretação de resultados/relatorio_insights.pdf - Relatório em PDF resumido com os principais insights detectados nas análises e soluções recomendadas para os insights.
 
-                                                            --- Parte 1 - Programação em Python ---
+                                                          
 
- 1. Limpeza e análise de dados de vendas
-
-- Descrição: Um script Python foi criado para simular um dataset de vendas com 500 registros, trazendo o período de 01/01/2023 a 31/12/2023.
-  O dataset contém as colunas: ID, Data, Produto, Categoria, Quantidade, e Preço.
-  
-- Limpeza dos Dados:
-  - Tratamento de valores faltantes.
-  - Remoção de duplicatas.
-  - Conversão de tipos de dados, quando necessário.
-
-- Análises Realizadas:
-  - Cálculo do total de vendas (Quantidade * Preço) por produto.
-  - Identificação do produto com o maior número de vendas totais.
-
-                                                                  --- 2 - Análise Exploratória de Dados ---
-
-- Visualizações:
-  - Gráfico de linha mostrando a tendência de vendas ao longo do tempo (análise mensal).
-  - Identificação e descrição de dois padrões ou insights interessantes observados nos dados.
-
-                                                                            --- Parte 2 - SQL  ---
-
-- Consultas SQL:
-  - Consulta 1: Importei o meu dataset limpo 'data_clean' e selecionei as colunas para ver se estava certo.
-  - Consulta 2: Listagem do nome do produto, categoria e a soma total de vendas (Quantidade * Preço) para cada produto, ordenada pelo valor total de vendas em ordem decrescente.
-  - Consulta 3: Identificação dos produtos que venderam menos no mês de junho de 2024 agrupando eles em categoria .
-
-                                                                      --- Parte 3: Interpretação de Resultados ---
-
-- Relatório: Um breve relatório resumindo os principais insights obtidos das análises realizadas nas Partes 1 e 2. Incluí algumas sugestões de ações baseadas nos insights encontrados.
-
-                                                                               --- Como Executar e depêndencias necessárias ---
+                                                      --- Como Executar e depêndencias necessárias ---
 
 1. Simulação e Limpeza de Dados:
    - Baixe o diretório 'Parte 1 - Programação em Python' Execute os scripts Jupyter/Python no Visual Studio utilizando uma extensão Jupyter Notebook.
  Optei pelo Jupyter por causa da praticidade de rodar linhas de código independentes e validar as hipóteses que foram surgindo durante a simulação.
+  Se certifique de todos os arquivos estarem juntos, se não estiver ele provavelmente dará erro.
 
 2. Consultas SQL:
    - Importe o dataset limpo (`data_clean.csv`) em um banco de dados e execute as consultas SQL `consultas_sql.sql` no banco de dados. Recomendo o software SQL SERVER MANAGEMENT STUDIO 20,
