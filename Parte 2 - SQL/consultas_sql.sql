@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------
 --SIMULAÇÃO 1: SELECIONANDO AS COLUNAS PARA VER COMO ESTÁ
-use [Teste QUOD]
+use [Teste]
 
 SELECT TOP (1000) [Coluna]
       
