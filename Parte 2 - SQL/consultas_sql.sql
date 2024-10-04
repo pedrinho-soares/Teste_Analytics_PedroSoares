@@ -14,7 +14,7 @@ SELECT TOP (1000) [Coluna]
       ,[Forma de Pagamento]
       ,[Hora]
       ,[Valor Total]
-  FROM [Teste QUOD].[dbo].[data_clean]
+  FROM [Teste].[dbo].[data_clean]
 
   --SIMULAÇÃO 1 FINALIZADA
   ----------------------------------------------------------------------------
@@ -24,7 +24,7 @@ SELECT TOP (1000) [Coluna]
   ---neste caso temos uma coluna 'Valor total' já pronta pra executar essa função que queremos, 
   --- mas suponhamos que ela não existisse, vamos simular essa query no arquivo "2 - Simulando Query", na próxima simulação
 
-  USE [Teste QUOD];
+  USE [Teste];
 
 SELECT
       [Produto],
@@ -49,7 +49,7 @@ ORDER BY
 	  --OBSERVAÇÃO: O EMAIL DO TESTE PEDIA PARA ANALISAR OS PRODUTOS QUE MENOS TIVERAM VENDAS EM JUNHO DE 2024
 --MAS A TABELA FOI GERADA APENAS DO ANO DE 2023 COMO ORDENADO, VOU CONSIDERAR ESSA QUERY E LEVAR COMO JUNHO DE 2023, ACREDITO QUE FOI UM ERRO.
 
-USE [Teste QUOD];
+USE [Teste];
 
 SELECT
 --USANDO O MESMO COMANDO NA SIMULAÇÃO 2 PARA CONVERTER OS NUMEROS E SELECIONAR AS CATEGORIAS QUE QUERO
